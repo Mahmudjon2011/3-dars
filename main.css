@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: aqua;
+    width: ;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+    .ota{
+        display: flex;
+        justify-content: center;
+    }
+.bola1{
+    display: flex;
+align-items: center;
+justify-content: center;
+width: 700px;
+font-size: 50px;
+height: 300px;
+background-color:blue;
+border: 2px   solid  black;
+
+}
+    
